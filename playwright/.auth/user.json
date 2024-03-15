@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "08479909-526a-4048-b6c9-a4edc2a28d9a.08bf758770a7-25196",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "08479909-526a-4048-b6c9-a4edc2a28d9a.08bf758770a7-25196",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxZjI2NTE0OS0zMTFlLTQxMWUtODhmZC03YjQwOTE1MDhhOWYifQ.eyJleHAiOjE3MTA1NzUxNTcsImlhdCI6MTcxMDUzOTE1NywianRpIjoiYzZjYmY3YjItNWZmZC00MTFjLTllNWYtZjk5ZWQ5M2ZkOTBiIiwiaXNzIjoiaHR0cHM6Ly9jb2JyZWRldnFhLmNsb3VkLWlhbS5jb20vYXV0aC9yZWFsbXMvY29icmUtZGV2cWEiLCJzdWIiOiJkMWU0YmVjZi0wNzE0LTQ3NmMtOWUxMi02Nzc3MjE5MjVkNTIiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6IjA4NDc5OTA5LTUyNmEtNDA0OC1iNmM5LWE0ZWRjMmEyOGQ5YSIsInNpZCI6IjA4NDc5OTA5LTUyNmEtNDA0OC1iNmM5LWE0ZWRjMmEyOGQ5YSIsInN0YXRlX2NoZWNrZXIiOiJRRTFVQ2NTM1NVMFJzQ2ptXy0xYy1lbGNyOXhQTTlHYWpXQjF1T0RJX1I4In0.DIT83VQOxXJedDlZ9rS1-1FPoMkLADBg726tr0O1Cac",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "cobre-devqa/d1e4becf-0714-476c-9e12-677721925d52/08479909-526a-4048-b6c9-a4edc2a28d9a",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": 1710575157.931798,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIxZjI2NTE0OS0zMTFlLTQxMWUtODhmZC03YjQwOTE1MDhhOWYifQ.eyJleHAiOjE3MTA1NzUxNTcsImlhdCI6MTcxMDUzOTE1NywianRpIjoiYzZjYmY3YjItNWZmZC00MTFjLTllNWYtZjk5ZWQ5M2ZkOTBiIiwiaXNzIjoiaHR0cHM6Ly9jb2JyZWRldnFhLmNsb3VkLWlhbS5jb20vYXV0aC9yZWFsbXMvY29icmUtZGV2cWEiLCJzdWIiOiJkMWU0YmVjZi0wNzE0LTQ3NmMtOWUxMi02Nzc3MjE5MjVkNTIiLCJ0eXAiOiJTZXJpYWxpemVkLUlEIiwic2Vzc2lvbl9zdGF0ZSI6IjA4NDc5OTA5LTUyNmEtNDA0OC1iNmM5LWE0ZWRjMmEyOGQ5YSIsInNpZCI6IjA4NDc5OTA5LTUyNmEtNDA0OC1iNmM5LWE0ZWRjMmEyOGQ5YSIsInN0YXRlX2NoZWNrZXIiOiJRRTFVQ2NTM1NVMFJzQ2ptXy0xYy1lbGNyOXhQTTlHYWpXQjF1T0RJX1I4In0.DIT83VQOxXJedDlZ9rS1-1FPoMkLADBg726tr0O1Cac",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "cobre-devqa/d1e4becf-0714-476c-9e12-677721925d52/08479909-526a-4048-b6c9-a4edc2a28d9a",
+      "domain": "cobredevqa.cloud-iam.com",
+      "path": "/auth/realms/cobre-devqa/",
+      "expires": 1710575157.931948,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

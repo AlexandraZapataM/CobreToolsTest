@@ -1,0 +1,30 @@
+{
+  "name": "cobretoolstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=qa npx playwright test",
+    "test:headed": "NODE_ENV=qa npx playwright test --headed",
+    "test:debug": "NODE_ENV=qa npx playwright test --debug",
+    "test:codegen": "NODE_ENV=qa npx playwright codegen",
+    "test-prod": "NODE_ENV=prod npx playwright test",
+    "test-prod:headed": "NODE_ENV=prod npx playwright test --headed",
+    "test-prod:debug": "NODE_ENV=prod npx playwright test --debug",
+    "test-prod:codegen": "NODE_ENV=prod npx playwright codegen",
+    "test:report": "npx playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.27"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "thirty-two": "^1.0.2"
+  }
+}
